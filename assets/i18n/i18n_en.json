@@ -1,0 +1,33 @@
+{
+    "home":"home",
+    "about":"about",
+    "skills":"skills",
+    "portfolio":"portfolio",
+    "contact":"contact",
+    "home__title":"Hi, I'm JothiLakshmi",
+    "home__subtitle":"Web Designer",
+    "home__description":"High level experience in web design and development knowledge,producing quality work.",
+    "home__contact":"Contact Me",
+    "home__scroll-name":"Scroll down",
+    "about__title":"About Me",
+    "about__subtitle":"My introduction",
+    "about__description":"Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.",
+    "about__info-name1":"Years of <br /> experience",
+    "about__info-name2":"Completed <br /> projects",
+    "about__info-name3":"Companies <br /> worked",
+    "download":"Download CV",
+    "skills__title":"Skills",
+    "skills__subtitle":"My technical level",
+
+    "qualification__title":"Qualification",
+    "qualification__subtitle":"My personal journey",
+    "education":"Education",
+    "work":"Work",
+    "qualification1__title":"Computer Science and Buisness System",
+    "qualification1__subtitle":"KIT-Kalaignar Karunanidhi Institute Of Technology",
+
+    "tel":"Call me",
+    "tel__number":"8428483392",
+    "email":"E-mail",
+    "email__address":"kit28.24bcb022@gmail.com"
+}
